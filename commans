@@ -1,0 +1,11 @@
+git config --global user.email "rmehwish555@gmail.com"
+git config --global user.name "Mehwish Rehman"
+
+git init
+git add [filename] || -A
+git status
+git commit -m "msg"
+git remote ad origin repoName
+git push origin master
+git clone repoName
+git pull origin master
